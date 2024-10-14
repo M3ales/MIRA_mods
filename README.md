@@ -72,6 +72,7 @@ This is for conditions which may quickly lead to the patient dying, or significa
 - English | [m3ales](https://github.com/M3ales)
 - Simplified Chinese | [GoldJohnKing](https://github.com/GoldJohnKing)
 - Italian, French, and Spanish | [BSM] PRODIGY
+- Russian | [Canibus](https://github.com/Canibus)
 
 I am accepting translation PRs.
 
